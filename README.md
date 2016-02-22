@@ -1,4 +1,14 @@
 # DadsUkip
-Grease Monkey/Tamper Monkey Script to give Ukip stories a Dad's Army charm
+Grease Monkey/Tamper Monkey Script to give Ukip stories a Dad's Army charm.  And the occasnional reminder that 	~~Farage~~ Mainwaring isn't actually a racist.
 
-Warning - may break links/images about Ukip
+Configured to work on the following sites:
+* Guardian
+* BBC
+* Telegraph
+* Independent
+* Scotsman
+* Herald
+* Sky News
+* Economist
+
+Add any additional sites as required.
