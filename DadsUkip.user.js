@@ -3,13 +3,13 @@
 // @namespace  http://martintawse.com
 // @version    0.1
 // @description  Policies for 1950s
-// @include     http://www.theguardian.com/*
+// @include     https://www.theguardian.com/*
 // @include     http://www.bbc.com/*
 // @include     http://www.bbc.co.uk/*
 // @include     http://www.telegraph.co.uk/*
-// @include     http://www.independent.co.uk/*
+// @include     http://www.independent.co.uk/* 
 // @include     http://www.scotsman.com/*
-// @include     http://www.heraldscotland.com/news/*
+// @include     http://www.heraldscotland.com/*
 // @include     http://news.sky.com/*
 // @include     http://www.economist.com/*
 // @copyright  2015+ Martin Tawse
@@ -18,7 +18,11 @@
 var replacementsMappings = {
     'ukip' : "Dad's Army",
     'Nigel Farage' : 'Captain Mainwaring',
-    'Farage' : 'Mainwaring'
+    'Farage' : 'Mainwaring',
+    'Liam Fox': 'The disgraced Liam Fox',
+    'Boris Johnson': 'BoJo the Clown',
+    'Boris': 'BoJo',
+    'Brexit': 'Fucking Brexit'
 };
 
 var notRacistComments = {
