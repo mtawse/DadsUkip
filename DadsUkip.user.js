@@ -7,7 +7,7 @@
 // @include     http://www.bbc.com/*
 // @include     http://www.bbc.co.uk/*
 // @include     http://www.telegraph.co.uk/*
-// @include     http://www.independent.co.uk/* 
+// @include     http://www.independent.co.uk/*
 // @include     http://www.scotsman.com/*
 // @include     http://www.heraldscotland.com/*
 // @include     http://news.sky.com/*
@@ -22,7 +22,9 @@ var replacementsMappings = {
     'Liam Fox': 'The disgraced Liam Fox',
     'Boris Johnson': 'BoJo the Clown',
     'Boris': 'BoJo',
-    'Brexit': 'Fucking Brexit'
+    'Brexit': 'Fucking Brexit',
+    //'Donald Trump': 'Donald Fucking Trump',
+    'Trump': 'Fucking Trump'
 };
 
 var notRacistComments = {
